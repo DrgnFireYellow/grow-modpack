@@ -1,0 +1,13 @@
+name = "Grow"
+author = "DrgnFireYellow"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a7823a7271721c3709b008cec92bf38ad94dc3c719922302d0d329639254705f"
+
+[versions]
+fabric = "0.14.22"
+minecraft = "1.20.1"

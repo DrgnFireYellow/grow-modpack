@@ -1,0 +1,26 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
+metafile = true
+
+[[files]]
+file = "mods/croptopia.pw.toml"
+hash = "8361392d5f517beb700ee5367c05c81448dba6d2becae59e37dd2720157d38c9"
+metafile = true
+
+[[files]]
+file = "mods/ct-overhaul-village.pw.toml"
+hash = "bc9905492f54c07bb62a5126a3ef53188a71a52ada9dc2a84a2888fba6739906"
+metafile = true
+
+[[files]]
+file = "mods/ctov-croptopia-compat.pw.toml"
+hash = "6f513e0bcbb95bc89206488ded18c1d1491e43fc35ceca97caaa3c6e1b8b86f2"
+metafile = true
+
+[[files]]
+file = "mods/minecraft-comes-alive-reborn.pw.toml"
+hash = "82dbe3854f83db3ace2e703c2256c82a8b5964585f8f7e00f1baa07c42eb2077"
+metafile = true
